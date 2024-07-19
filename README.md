@@ -49,8 +49,6 @@ This project is licensed under the MIT License.
 Author
 Luce Fakeye and Oriane Assale, Master's students at Efrei Paris.
 
-
-
-
+Github link: https://github.com/FakeyeLucegit/Data_mining_1_deployed_project.git
 
 
