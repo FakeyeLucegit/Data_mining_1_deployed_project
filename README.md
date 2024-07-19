@@ -50,5 +50,5 @@ Author
 Luce Fakeye and Oriane Assale, Master's students at Efrei Paris.
 
 Github link: https://github.com/FakeyeLucegit/Data_mining_1_deployed_project.git
-
+app deploy link: https://luceorianechocolate.streamlit.app/
 
